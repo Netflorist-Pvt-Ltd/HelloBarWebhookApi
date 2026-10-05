@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MYvOdJTHCGTXbhA/PYUvu7EInpauNbBtT2KGB4CrkOQ=",
+  "Source": "HelloBarWebhookApi",
+  "BasePath": "_content/HelloBarWebhookApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
